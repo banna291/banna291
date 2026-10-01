@@ -19,16 +19,26 @@ I'm a **Software Engineering graduate** passionate about building modern web app
 
 # 💼 Work Experience
 
-### 👨‍💻 Junior Web Developer — Glaxit Solutions
+## 🚀 MERN Stack Intern — Glaxit Solutions
 
-**June 2026 – September 2026** · **3 Months**
+**June 2026 – September 2026 · 3 Months**
 
-* Worked as a **Junior Web Developer** at Glaxit Solutions.
-* Contributed to the development and improvement of modern web applications.
-* Worked with frontend and web development technologies.
-* Collaborated with team members on development tasks and project requirements.
-* Gained practical experience in professional software development workflows.
-* Applied software engineering concepts in real-world projects.
+During my internship at **Glaxit Solutions**, I worked as a **MERN Stack Intern**, gaining hands-on experience in modern full-stack web development.
+
+### 🔧 Responsibilities & Skills
+
+* ⚛️ Developed frontend interfaces using **React.js**
+* 🟢 Worked with **Node.js** and **Express.js**
+* 🍃 Used **MongoDB** for database management
+* 🔗 Developed and integrated REST APIs
+* 🧩 Worked on reusable and responsive web components
+* 🐛 Debugged and improved application functionality
+* 🔄 Worked with **Git & GitHub** for version control
+* 🚀 Gained practical experience with full-stack MERN development
+
+### 🛠️ Tech Stack
+
+`MongoDB` `Express.js` `React.js` `Node.js` `JavaScript` `Git` `GitHub`
 
 ---
 
