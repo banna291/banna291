@@ -2,43 +2,37 @@
 
 # 👋 Hi, I'm Hassan Ul Banna
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Graduate;DevOps+%26+Frontend+Developer;Cloud+%7C+Docker+%7C+Kubernetes;React+%7C+JavaScript+Developer;Building+Scalable+Digital+Solutions" alt="Typing SVG" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F00FF,100:00F7FF&height=180&section=header&text=HASSAN%20UL%20BANNA&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Graduate;Junior+Web+Developer;DevOps+%26+Frontend+Developer;Cloud+%7C+Docker+%7C+Kubernetes;React+%7C+JavaScript+Developer" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<div align="center">
+## 🧑‍💻 About Me
 
-## 🧑‍💻 `whoami`
-
-### **Software Engineer | DevOps & Frontend Enthusiast**
-
-</div>
-
-I'm a **Software Engineering graduate** passionate about building modern web applications, automating infrastructure, and deploying scalable systems.
-
-My main areas of interest include:
-
-* ☁️ Cloud Computing
-* 🚀 DevOps & CI/CD
-* 🐳 Containerization
-* ⚛️ Frontend Development
-* 🔧 Infrastructure Automation
-* 🌐 Modern Web Technologies
+I'm a **Software Engineering graduate** passionate about building modern web applications, cloud technologies, DevOps automation, and scalable digital solutions.
 
 🎓 **BS Software Engineering — COMSATS University Islamabad, Wah Campus**
 📍 **Wah Cantt, Pakistan**
 
 ---
 
-<div align="center">
+# 💼 Work Experience
 
-## 🧠 TECH STACK
+### 👨‍💻 Junior Web Developer — Glaxit Solutions
+
+**June 2026 – September 2026** · **3 Months**
+
+* Worked as a **Junior Web Developer** at Glaxit Solutions.
+* Contributed to the development and improvement of modern web applications.
+* Worked with frontend and web development technologies.
+* Collaborated with team members on development tasks and project requirements.
+* Gained practical experience in professional software development workflows.
+* Applied software engineering concepts in real-world projects.
+
+---
+
+# 🧠 Technical Skills
 
 ### 💻 Frontend
 
@@ -48,20 +42,13 @@ My main areas of interest include:
 
 <img src="https://skillicons.dev/icons?i=docker,jenkins,kubernetes,terraform,aws,ansible" />
 
-### 🛠️ Tools & Environment
+### 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-
-</div>
 
 ---
 
 # 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
 
 ## 🏗️ Awaz E Awam
 
@@ -69,53 +56,34 @@ My main areas of interest include:
 
 A complaint management portal supported by an automated DevOps workflow.
 
-### ⚙️ Technologies
-
-`Docker` `Jenkins` `Kubernetes`
-`Terraform` `Ansible` `Git`
-
-### 🔥 Highlights
+**Tech Stack:** Docker · Jenkins · Kubernetes · Terraform · Ansible · Git
 
 * CI/CD pipeline implementation
 * Automated deployment
 * Infrastructure automation
 * Containerized application workflow
-* Efficient complaint tracking
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ## 🚗 Car Rental System
 
 **Web Development Project**
 
-A responsive web-based car rental platform supporting different rental durations.
+A responsive web-based car rental platform supporting daily, weekly, and monthly rentals.
 
-### ⚙️ Technologies
+**Tech Stack:** HTML · CSS · JavaScript · React
 
-`HTML` `CSS` `JavaScript` `React`
-
-### 🔥 Highlights
-
-* Daily rentals
-* Weekly rentals
-* Monthly rentals
-* Responsive interface
+* Responsive frontend interface
 * User booking workflow
-
-</td>
-
-</tr>
-</table>
+* Multiple rental duration options
 
 ---
 
-<div align="center">
-
 # 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=banna291&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=banna291&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banna291&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
@@ -153,60 +121,17 @@ A responsive web-based car rental platform supporting different rental durations
 
 ---
 
-# 💫 My Development Philosophy
-
-```text
-        ┌─────────────────────────────┐
-        │       THINK • BUILD •       │
-        │       AUTOMATE • DEPLOY     │
-        └──────────────┬──────────────┘
-                       │
-             ┌─────────▼─────────┐
-             │      DEVELOP      │
-             └─────────┬─────────┘
-                       │
-             ┌─────────▼─────────┐
-             │       TEST        │
-             └─────────┬─────────┘
-                       │
-             ┌─────────▼─────────┐
-             │      DOCKER       │
-             └─────────┬─────────┘
-                       │
-             ┌─────────▼─────────┐
-             │   CI/CD PIPELINE  │
-             └─────────┬─────────┘
-                       │
-             ┌─────────▼─────────┐
-             │   CLOUD / K8S     │
-             └─────────┬─────────┘
-                       │
-                 🚀 DEPLOY 🚀
-```
-
----
-
 # 🌱 Currently Exploring
 
 ```text
 ☁️ Cloud Infrastructure
-🐳 Advanced Docker Workflows
+🐳 Docker & Containerization
 ☸️ Kubernetes
 🔄 CI/CD Automation
 🏗️ Infrastructure as Code
-⚛️ Modern React Development
+⚛️ React Development
 🌐 Scalable Web Applications
 ```
-
----
-
-# 📈 My GitHub Journey
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=banna291&theme=tokyonight" width="95%"/>
-
-</div>
 
 ---
 
@@ -233,7 +158,5 @@ A responsive web-based car rental platform supporting different rental durations
 <div align="center">
 
 ### 💻 `Code → Automate → Deploy → Improve`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00F7FF,100:7F00FF&height=120&section=footer&animation=twinkling"/>
 
 </div>
